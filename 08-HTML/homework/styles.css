@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/pano-cocina-mesa-madera_74190-7693.jpg?size=626&ext=jpg);
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}   
+
+.divClass {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: #f8e6ac;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(226, 201, 172);
+    padding: 50px;
+    border: 4px solid coral;
+    border-radius: 2%;
+}
+
+#spanId{
+    font-size: 18px;
+    /* margin: 50px; */
+}
